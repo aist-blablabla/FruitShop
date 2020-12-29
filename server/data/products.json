@@ -1,0 +1,227 @@
+{
+  "products": [
+    {
+      "id": 12,
+      "sku": 12064273040195392,
+      "title": "Арбуз",
+      "description": "Астраханский",
+      "availableSizes": ["Свежие"],
+      "style": "1 кг",
+      "price": 15,
+      "installments": 0,
+      "currencyId": "RUS",
+      "currencyFormat": "Руб.",
+      "isFreeShipping": false
+    },
+
+    {
+      "id": 13,
+      "sku": 51498472915966366,
+      "title": "Абрикосы",
+      "description": "Шаллах",
+      "availableSizes": ["Свежие"],
+      "style": "1 кг",
+      "price": 130,
+      "installments": 0,
+      "currencyId": "RUS",
+      "currencyFormat": "Руб.",
+      "isFreeShipping": false
+    },
+
+    {
+      "id": 14,
+      "sku": 10686354557628303,
+      "title": "Изюм",
+      "description": "",
+      "availableSizes": ["Сушеные"],
+      "style": "1 кг",
+      "price": 212,
+      "installments": 0,
+      "currencyId": "RUS",
+      "currencyFormat": "Руб.",
+      "isFreeShipping": false
+    },
+
+    {
+      "id": 15,
+      "sku": 11033926921508487,
+      "title": "Папайя",
+      "description": "",
+      "availableSizes": ["Свежие"],
+      "style": "1 кг",
+      "price": 790,
+      "installments": 0,
+      "currencyId": "RUS",
+      "currencyFormat": "Руб.",
+      "isFreeShipping": false
+    },
+
+    {
+      "id": 11,
+      "sku": 39876704341265606,
+      "title": "Курага",
+      "description": "",
+      "availableSizes": ["Сушеные"],
+      "style": "1 кг",
+      "price": 109,
+      "installments": 0,
+      "currencyId": "RUS",
+      "currencyFormat": "Руб.",
+      "isFreeShipping": false
+    },
+
+    {
+      "id": 16,
+      "sku": 10412368723880253,
+      "title": "Апельсины",
+      "description": "Навэл",
+      "availableSizes": ["Свежие"],
+      "style": "1 кг",
+      "price": 56,
+      "installments": 0,
+      "currencyId": "RUS",
+      "currencyFormat": "Руб.",
+      "isFreeShipping": false
+    },
+
+    {
+      "id": 0,
+      "sku": 8552515751438644,
+      "title": "Бананы»",
+      "description": "Dole",
+      "availableSizes": ["Свежие"],
+      "style": "1 кг",
+      "price": 90,
+      "installments": 0,
+      "currencyId": "RUS",
+      "currencyFormat": "RUB",
+      "isFreeShipping": false
+    },
+
+    {
+      "id": 1,
+      "sku": 18644119330491312,
+      "title": "Виноград",
+      "description": "Тайфи",
+      "availableSizes": ["Свежие"],
+      "style": "1 кг",
+      "price": 75,
+      "installments": 0,
+      "currencyId": "RUS",
+      "currencyFormat": "RUB",
+      "isFreeShipping": false
+    },
+
+    {
+      "id": 2,
+      "sku": 11854078013954528,
+      "title": "Груши",
+      "description": "Санта-Мария",
+      "availableSizes": ["Свежие"],
+      "style": "1 кг",
+      "price": 105,
+      "installments": 0,
+      "currencyId": "RUS",
+      "currencyFormat": "RUB",
+      "isFreeShipping": false
+    },
+
+    {
+      "id": 3,
+      "sku": 876661122392077,
+      "title": "Чернослив",
+      "description": "",
+      "availableSizes": ["Сушеные"],
+      "style": "1 кг",
+      "price": 90,
+      "installments": 0,
+      "currencyId": "RUS",
+      "currencyFormat": "Руб.",
+      "isFreeShipping": false
+    },
+
+    {
+      "id": 4,
+      "sku": 9197907543445677,
+      "title": "Яблоки",
+      "description": "Джонаголд",
+      "availableSizes": ["Свежие"],
+      "style": "1 кг",
+      "price": 40,
+      "installments": 0,
+      "currencyId": "RUS",
+      "currencyFormat": "Руб.",
+      "isFreeShipping": false
+    },
+
+    {
+      "id": 5,
+      "sku": 10547961582846888,
+      "title": "Черешня",
+      "description": "Крымская",
+      "availableSizes": ["Свежие"],
+      "style": "1 кг",
+      "price": 210,
+      "installments": 0,
+      "currencyId": "RUS",
+      "currencyFormat": "Руб.",
+      "isFreeShipping": false
+    },
+
+    {
+      "id": 6,
+      "sku": 6090484789343891,
+      "title": "Финики",
+      "description": "",
+      "availableSizes": ["Сушеные"],
+      "style": "1 кг",
+      "price": 105,
+      "installments": 0,
+      "currencyId": "RUS",
+      "currencyFormat": "Руб.",
+      "isFreeShipping": false
+    },
+
+    {
+      "id": 7,
+      "sku": 18532669286405342,
+      "title": "Нектарин",
+      "description": "",
+      "availableSizes": ["Свежие"],
+      "style": "1 кг",
+      "price": 170,
+      "installments": 0,
+      "currencyId": "RUS",
+      "currencyFormat": "Руб.",
+      "isFreeShipping": false
+    },
+
+    {
+      "id": 8,
+      "sku": 5619496040738316,
+      "title": "Грейпфрут",
+      "description": "Дункан",
+      "availableSizes": ["Свежие"],
+      "style": "1 кг",
+      "price": 99,
+      "installments": 0,
+      "currencyId": "RUS",
+      "currencyFormat": "Руб.",
+      "isFreeShipping": false
+    },
+
+    {
+      "id": 9,
+      "sku": 11600983276356165,
+      "title": "Мандарины",
+      "description": "",
+      "availableSizes": ["Свежие"],
+      "style": "1 кг",
+      "price": 39,
+      "installments": 0,
+      "currencyId": "RUS",
+      "currencyFormat": "Руб.",
+      "isFreeShipping": false
+    }
+  ]
+}
